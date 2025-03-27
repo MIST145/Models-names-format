@@ -6,7 +6,7 @@
 
 ---
 
-## Português 🇧🇷
+## Português 🇵🇹
 
 ### 📝 Descrição do Projeto
 
